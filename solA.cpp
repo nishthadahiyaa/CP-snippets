@@ -1,4 +1,4 @@
-
+#pragma GCC optimize("O2")
 #define vi vector<int>
 #define vvi vector<vi>
 
